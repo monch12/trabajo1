@@ -1,2 +1,1 @@
-printl  ("lo logre")
-pip freeze > 
+print  ("lo logre")
